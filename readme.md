@@ -1,10 +1,10 @@
 # eLitmus Assignment
 
-Soft skill to be assesed: This puzzle will test the thinking level of the users.
-It has many clues through which users can find the answers. The accuracy of each user is calculated along with the time taken at each page.
+Soft skill to be assesed: This puzzle will test the analytical thinking of the users.
+It has many clues through which users can find the answers. The accuracy of each user is calculated.
 
 ## Useful Links
-- [Actual Website](https://elitmusassignment.netlify.app)
+- [Actual Website](https://arushielitmus.netlify.app/)
 
 
 ## Possible ways
@@ -13,24 +13,26 @@ At each step the user has to give an answer in the input box by using the hints 
 The game can be solved in only one way, and that is to answer all the questions of all the six clues.
 
 ## Dead Ends
-There are two dead ends to this puzzle.
-- The first one is  deadend.html page which is linked with clue1. It is just a normal page with a message telling the user that this page got nothing.
-- The second one is page clue_clue.html that has several links to confuse the user. But actually this page has no hints to the answer. This page is linked to page clue5.html and can be accessed by clicking on 'Page'
-hyperlink.
+There are three dead ends to this puzzle.
+- The first one is  de.html page which is linked with clue1. It is just a normal page with a message telling the user that this page got nothing. It will be opened when the user clicks on the image of clue1.html page.
+- The second one is page clue5hint.html that has several links to give hints to the user. This page pops when the user clicks on the hint link on clue5.html page. It has got 4 links out of which link2 is a deadend that has nothing to do with the puzzle.
+
+- The third dead end comes on clue2.html page. The second link of this page describes about ocean which has nothing to do with the puzzle.
 
 ## Clues and Answers
-* **Clue 1:** View the source code of the page to find the first clue.
-  * **Solution:** Open source code and see the comment along with image link. The answer is colgate.
-* **Clue 2:** Find the person from hints.
-  * **Solution:** The answer is Salman Khan.
-* **Clue 3:** Scan the QR code.
-  * **Solution:** The answer is Barber.
-* **Clue 4:** Solve the riddle in the image
-  * **Solution:** The answer is Watermelon
-* **Clue 5:** What is Mary + Mary equal to?
-  * **Solution:** Summary.
-* **Clue 6:** What English word retains the same pronunciation, even after you take away four of its five letters?.
-  * **Solution:** To see the hint, type a+c+e or b+d+f in the second input box and submit. Then open the link which show an image of a queue. Therefore,the answer to the question is Queue
+* **Clue 1:** What is 3/7 chicken, 2/3 cat, and 2/4 goat?.
+  * **Solution:** The answer to this is chicago.
+* **Clue 2:** I’m tall when I’m young and short when I’m old.
+  * **Solution:** The answer is candle.
+* **Clue 3:** When I'm in your hand, I'm likely to click But on the ground, I'm likely to speak Unless I'm your friend, you must catch me quick Or the last thing you'll hear from me is a squeak
+  * **Solution:** The answer is mouse. User can hover the image and get a hint.
+* **Clue 4:** Roses are red, this isn't a clue, What color is fuchsia if violets aren't blue?
+Hint: View source code
+  * **Solution:** The answer is Magenta. User can use the link in the source code to guess the answer.
+* **Clue 5:** I am a word of five letters, but when you take away two, I am left with four. What am I?
+  * **Solution:** The users can goto clue5hint.html page by clicking on 'page' link after which they will get links to youtube shorts. Hence the answer to this step is 'short'.
+* **Clue 6:** I am not alive, but I can grow; I don't have lungs, but I need air; I don't have a mouth, but I need water to survive. What am I?
+  * **Solution:** Click on hint, you will land on firebase link. Users can take clue from there and hence the answer is 'fire'.
 * **END:** Claim Gift
   * **Solution:** Click on the button to claim gift.
 
@@ -48,4 +50,7 @@ Minimum 1 solution : Yes
 User data: Yes(Accuracy of each user at each clue page)
 Dashboard for admin for tracking user data: Yes
 Start again on window refresh: No
+
+## The data is stored in firebase.
+
 
