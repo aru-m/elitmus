@@ -52,5 +52,6 @@ Dashboard for admin for tracking user data: Yes
 Start again on window refresh: No
 
 ## The data is stored in firebase.
+![fii](https://user-images.githubusercontent.com/100086958/232337636-aafc3a28-59eb-446a-9361-7b54c65531ff.png)
 
 
