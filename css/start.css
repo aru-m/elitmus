@@ -1,0 +1,41 @@
+
+p{
+    font-size: 30px;
+}
+/* ************************************************START PAGE******************************************** */
+
+
+/* Home Section CSS */
+
+.home{
+    background-color: rgb(72, 137, 206);
+    padding: 30px;
+}
+
+.item-left{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 50px;
+    align-items: center;
+    height: 71vh;
+}
+
+.playbtn{
+    background-color: black;
+    margin-top: 20px;
+    padding: 5px 48px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: white;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.playbtn:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}

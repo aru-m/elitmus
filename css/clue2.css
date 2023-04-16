@@ -1,0 +1,45 @@
+body{
+    background: url(/assets/clu2.jpg) center center/cover no-repeat;
+}
+
+#nav{
+    background-color: rgba(0, 0, 0, 0.147);
+}
+.container{
+    margin: 60px;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box{
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.153);
+    transition: all 0.6s ease;
+    cursor: pointer;
+}
+
+.box:hover{
+    background-color: rgba(0, 0, 0, 0.504);
+}
+
+
+p{
+    font-size: 2rem;
+}
+
+ul{
+    margin-left: 100px;
+    display: flex;
+}
+
+li{
+    list-style: none;
+}
+ul li a{
+    margin: 10px;
+    font-size: 1.3rem;
+}
