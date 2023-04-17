@@ -31,7 +31,7 @@ Hint: View source code
   * **Solution:** The answer is Magenta. User can use the link in the source code to guess the answer.
 * **Clue 5:** I am a word of five letters, but when you take away two, I am left with four. What am I?
   * **Solution:** The users can goto clue5hint.html page by clicking on 'page' link after which they will get links to youtube shorts. Hence the answer to this step is 'short'.
-* **Clue 6:** I am not alive, but I can grow; I don't have lungs, but I need air; I don't have a mouth, but I need water to survive. What am I?
+* **Clue 6:** I am not alive, but I can grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?
   * **Solution:** Click on hint, you will land on firebase link. Users can take clue from there and hence the answer is 'fire'.
 * **END:** Claim Gift
   * **Solution:** Click on the button to claim gift.
